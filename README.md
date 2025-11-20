@@ -99,15 +99,23 @@ Clean, modern, user-first design.
 
 # 🧠 LeetCode Progress
 
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
 ### 🏅 3D Trophy Shelf  
-<p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=er-anish&theme=dark" width="700"/>
-</p>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=er-anish&theme=dark" width="320"/>
+
+</td>
+
+<td align="center" width="50%">
 
 ### 📈 Stats  
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/er-anish?theme=dark&font=Lexend&ext=heatmap" />
-</p>
+<img src="https://leetcard.jacoblin.cool/er-anish?theme=dark&font=Lexend&ext=heatmap" width="330"/>
+
+</td>
+</tr>
+</table>
 
 ---
 

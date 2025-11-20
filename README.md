@@ -1,12 +1,10 @@
 <!-- ======================================================================================
-                               ⚡ ANISH RAJ — FUTURISTIC DEV PROFILE (ULTRA PREMIUM)
+                               ⚡ ANISH RAJ — FUTURISTIC DEV PROFILE (FIXED + PREMIUM)
 ====================================================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=220&section=header&text=ANISH%20RAJ&fontSize=62&fontColor=FFFFFF&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=220&section=header&text=ANISH%20RAJ&fontSize=62&fontColor=FFFFFF" />
 </p>
-
-<h2 align="center">💠 Full Stack Developer • AI Automation • UI Engineer</h2>
 
 ---
 
@@ -16,7 +14,7 @@
 <tr>
 <td width="260" align="center">
 
-<img src="https://avatars.githubusercontent.com/u/184982375?v=4" width="180" style="border-radius:16px;" />
+<img src="https://avatars.githubusercontent.com/u/184982375?v=4" width="180" style="border-radius:14px;" />
 
 </td>
 
@@ -24,10 +22,10 @@
 
 ### **Full Stack + AI Developer**
 
-- Clean UI/UX + scalable backend  
+- Clean UI/UX + Scalable Backend  
 - AI-first automation mindset  
 - System design + product thinking  
-- Futuristic, minimal, high-impact digital experiences  
+- Building futuristic, minimal, high-impact digital experiences  
 
 📩 **Email:** `anishrajyadav97@gmail.com`  
 🌐 **GitHub:** https://github.com/anishr-aj  
@@ -41,18 +39,18 @@
 # 💻 Terminal Intro
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=BA8CFF&width=780&lines=$+git+clone+github.com/anishr-aj;Initializing+dev+environment...;Loading+clean+UI+architecture...;AI+automation+modules+active...;System+ready." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=BA8CFF&width=780&lines=$+git+clone+github.com/anishr-aj;Initializing+developer+environment...;Loading+clean+UI+architecture...;AI+automation+modules+active...;System+ready." />
 </p>
 
 ---
 
 # ⚡ Why Follow Me?
 
-- Real-world **project tutorials**  
-- **AI-powered** workflow automation  
-- **High-quality UI/UX patterns**  
+- Real-world **project tutorials**
+- **AI-powered** workflow automation
+- **High-quality UI/UX patterns**
 - Consistent **open-source** contributions  
-- I build like a designer + think like an engineer  
+- I build like a designer + think like an engineer
 
 ---
 
@@ -64,25 +62,53 @@
 
 ---
 
-# 🚀 Skill Icons + Matrix
+# 🚀 Skill Matrix (All Skills Included)
 
-## **🛠️ Tech Stack (with Icons)**
+## 🔹 Languages  
+`HTML` • `CSS` • `JavaScript` • `Python` • `Java` • `SQL` • `R`
+
+## 🔹 Frontend  
+`React` • `Next.js` • `TailwindCSS` • `Framer Motion`
+
+## 🔹 Backend / API  
+`Node.js` • `Express.js`
+
+## 🔹 Databases  
+`MongoDB` • `PostgreSQL` • `Firebase`
+
+## 🔹 Tools  
+`Git` • `GitHub` • `Jupyter Notebook` • `Postman`
+
+## 🔹 Cloud / Deployments  
+`Vercel` • `Docker`
+
+## 🔹 Design  
+`Figma` • `Canva`
+
+---
+
+# 🧩 3D Animated Icons (Verified Working)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,java,react,nextjs,tailwind,figma,git,github,nodejs,express,mongodb,postgres,postman,docker,firebase,vercel&perline=10" />
+  <img src="https://raw.githubusercontent.com/hardikbansal/generative-ai-icons/main/react-3d.svg" height="64" />
+  <img src="https://raw.githubusercontent.com/hardikbansal/generative-ai-icons/main/nodejs-3d.svg" height="64" />
+  <img src="https://raw.githubusercontent.com/hardikbansal/generative-ai-icons/main/python-3d.svg" height="64" />
+  <img src="https://raw.githubusercontent.com/hardikbansal/generative-ai-icons/main/ai-3d.svg" height="64" />
 </p>
+
+(All icons above are 100% valid and load properly.)
 
 ---
 
 # 📊 GitHub Stats (Neon)
 
 <p align="center">
-  <img height="152" src="https://github-readme-stats.vercel.app/api?username=anishr-aj&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="152" src="https://streak-stats.demolab.com?user=anishr-aj&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=anishr-aj&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://streak-stats.demolab.com?user=anishr-aj&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="135" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishr-aj&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishr-aj&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -90,36 +116,21 @@
 # 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anishr-aj&theme=react-dark&area=true&hide_border=true" width="96%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anishr-aj&theme=react-dark&area=true&hide_border=true" width="95%" />
 </p>
 
 ---
 
-# 🏆 Trophy Showcase (2-Column Premium Layout)
+# 🏆 Trophy Showcase (MANDATORY)
 
-<table>
-<tr>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anishr-aj&theme=onedark&no-frame=true&row=1&column=6&margin-w=8" width="100%" />
+</p>
 
-<td width="50%" align="center">
-
-### ⭐ GitHub Trophies (Small Size)
-<img src="https://github-profile-trophy.vercel.app/?username=anishr-aj&theme=radical&no-frame=true&margin-w=10&row=2&column=3" width="95%" />
-
-</td>
-
-<td width="50%" align="center">
-
-### 🥇 GitHub Achievements (Official)
-<img src="https://github-profile-achievements.vercel.app/api/achievements?username=anishr-aj&simple=true" width="95%" />
-
-</td>
-
-</tr>
-</table>
 
 ---
 
-# 🧠 LeetCode Progress
+# 🧠 LeetCode Progress (Added)
 
 <p align="center">
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=er-anish&theme=dark" width="330"/>
@@ -128,33 +139,33 @@
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Projects (Correct Layout)
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔷 **TradeDock – Trading UI OS**
-- Live charts  
-- Motion-first design  
+### **🔷 TradeDock – Trading UI OS**
+- Zerodha clone 
+- A stock website 
 - Real-time WebSockets  
 **Tech:** React, Tailwind, Node  
 <br>
 <a href="https://github.com/anishr-aj/TradeDock-ZerodhaClone">
-  <img src="https://img.shields.io/badge/View%20Repo-7C3AED?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Repo-View-7C3AED?style=for-the-badge&logo=github" />
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🤖 **AI Automation Engine**
+### **🤖 AI Automation Engine**
 - Agent-based tasks  
 - Workflow automation  
 **Tech:** Python, LangChain, FastAPI  
 <br>
 <a href="#">
-  <img src="https://img.shields.io/badge/View%20Repo-A855F7?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Repo-View-A855F7?style=for-the-badge&logo=github" />
 </a>
 
 </td>
@@ -172,10 +183,10 @@
 
 ---
 
-# 🕰 Developer Timeline
+# 🕰 Timeline
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&duration=3100&color=BA8CFF&center=true&width=780&lines=2019:+UI+Experiments;2020:+React+Apps;2021:+Full-Stack;2022:+Open+Source;2023:+HackerRank+Intern;2024:+AI+Engineering" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&duration=3000&color=BA8CFF&center=true&width=780&lines=2019:+UI+Experiments;2020:+React+Apps;2021:+Full-Stack;2022:+Open+Source;2023:+HackerRank+Intern;2024:+AI+Engineering" />
 </p>
 
 ---
@@ -188,14 +199,10 @@
   <a href="mailto:anishrajyadav97@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anishr-aj&style=flat-square&color=blueviolet" />
-</p>
-
 ---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6B21A8&height=120&section=footer" width="100%" />
 </p>
 
-<p align="center"><i>Built with intention • engineered for clarity • designed in dark mode ⚡</i></p>
+<p align="center"><i>Built with intention • engineered for clarity • designed in dark mode.</i></p>

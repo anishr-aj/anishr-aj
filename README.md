@@ -100,6 +100,9 @@
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=anishr-aj&theme=radical&no-frame=false&no-bg=false&margin-w=4" width="90%"/>
 </p>
+<p align="center">
+  <img src="https://github-profile-achievements.vercel.app/api/achievements?username=anishr-aj" />
+</p>
 
 
 ---

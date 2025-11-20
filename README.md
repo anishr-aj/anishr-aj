@@ -78,6 +78,11 @@ Clean, modern, user-first design.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anishr-aj&theme=react-dark&hide_border=true&area=true&radius=10" width="100%" />
 </p>
 
+### 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anishr-aj&theme=algolia&no-bg=true&margin-w=10&margin-h=10&no-frame=true" />
+</p>
+
 ### ⚡ Profile Stats  
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=anishr-aj&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -94,11 +99,10 @@ Clean, modern, user-first design.
 
 # 🧠 LeetCode Progress
 
-### 🎖 Current Badge  
+### 🏅 3D Trophy Shelf  
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/er-anish?theme=dark&font=Lexend&ext=heatmap&badge=Introduction%20to%20Pandas" width="280" />
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=er-anish&theme=dark" width="700"/>
 </p>
-
 
 ### 📈 Stats  
 <p align="center">
@@ -137,4 +141,3 @@ Clean, modern, user-first design.
 </p>
 
 <p align="center"><i>Made with clarity • discipline • and the late-night grind ⚡</i></p>
-

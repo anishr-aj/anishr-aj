@@ -78,10 +78,13 @@ Clean, modern, user-first design.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anishr-aj&theme=react-dark&hide_border=true&area=true&radius=10" width="100%" />
 </p>
 
-# 🏆 GitHub Trophies
-
+# 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy-api.vercel.app/?username=anishr-aj&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/assets/trophy_achievement.svg" width="90" />
+  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/assets/trophy_commit.svg" width="90" />
+  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/assets/trophy_star.svg" width="90" />
+  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/assets/trophy_follower.svg" width="90" />
+  <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/assets/trophy_pullrequest.svg" width="90" />
 </p>
 
 ### ⚡ Profile Stats  

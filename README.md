@@ -6,6 +6,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=220&section=header&text=ANISH%20RAJ&fontSize=62&fontColor=FFFFFF&fontAlignY=40" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anishr-aj&style=flat-square&color=blueviolet" />
+</p>
+
 <h2 align="center">💠 Full Stack Developer • AI Automation • UI Engineer</h2>
 
 ---
@@ -101,7 +105,6 @@
   <img src="https://github-trophies.vercel.app/?username=anishr-aj&theme=radical&no-frame=false&no-bg=false&margin-w=4" width="90%"/>
 </p>
 
-
 ---
 
 # 🧠 LeetCode Progress
@@ -120,7 +123,7 @@
 <td width="50%" valign="top">
 
 ### 🔷 **TradeDock – Trading UI OS**
-- Zerodha clone
+- Zerodha clone  
 - A stock website  
 - Real-time WebSockets  
 **Tech:** React, Tailwind, Node  
@@ -171,10 +174,6 @@
   <a href="https://github.com/anishr-aj"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github"></a>
   <a href="https://www.linkedin.com/in/er-anish/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:anishrajyadav97@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"></a>
-  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anishr-aj&style=flat-square&color=blueviolet" />
-</p>
-
 </p>
 
 ---

@@ -70,7 +70,7 @@
 
 # 🚀 Skill Icons + Matrix
 
-## **🛠️ Tech Stack (with Icons)**
+## **🛠️ Tech Stack **
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,py,java,react,nextjs,tailwind,figma,git,github,nodejs,express,mongodb,postgres,postman,docker,firebase,vercel&perline=10" />
@@ -78,7 +78,7 @@
 
 ---
 
-# 📊 GitHub Stats (Neon)
+# 📊 GitHub Stats
 
 <p align="center">
   <img height="152" src="https://github-readme-stats.vercel.app/api?username=anishr-aj&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -99,7 +99,7 @@
 
 ---
 
-# 🏆 Trophy Showcase (MANDATORY)
+# 🏆 Trophy Showcase
 
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=anishr-aj&theme=radical&no-frame=false&no-bg=false&margin-w=4" width="90%"/>
@@ -112,6 +112,11 @@
 <p align="center">
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=er-anish&theme=dark" width="330"/>
   <img src="https://leetcard.jacoblin.cool/er-anish?theme=dark&font=Lexend&ext=heatmap" width="360"/>
+
+  <a href="https://leetcode.com/er-anish/" target="_blank">
+  <img align="center" src="https://leetcode.com/medal/?showImg=0&id=8737585&isLevel=false" alt="LeetCode Badge" height="200" width="200" />
+</a>
+
 </p>
 
 ---

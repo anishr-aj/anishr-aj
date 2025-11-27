@@ -1,120 +1,123 @@
-<!-- Banner -->
+<!-- Clean Banner -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300?text=Welcome+to+My+Developer+World" width="100%">
+  <img src="https://via.placeholder.com/1200x300?text=Anish+Raj+%7C+Frontend+Developer+%7C+AI+Builder" width="100%" />
 </p>
 
-<h1 align="center">🔥 Hi, I'm Anish Raj — Frontend Dev | AI Enthusiast | Open-Source Builder</h1>
-<p align="center">I build modern UIs, automation tools, and open-source projects that actually help developers.</p>
+<h1 align="center">🔥 Anish Raj — Frontend Developer | AI Enthusiast | Open Source Builder</h1>
+
+<p align="center">
+  <em>I craft modern UIs, automation tools and open-source projects that help thousands of developers.</em>
+</p>
 
 <p align="center">
   <a href="https://github.com/sponsors/anishr-aj">
-    <img src="https://img.shields.io/badge/Sponsor❤️-Support%20My%20Work-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Sponsor❤️-Support%20My%20Work-blue?style=for-the-badge" />
   </a>
   <a href="https://github.com/anishr-aj?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-View%20My%20Work-green?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Projects-Explore%20Now-green?style=for-the-badge" />
   </a>
   <a href="https://github.com/anishr-aj">
-    <img src="https://img.shields.io/github/followers/anishr-aj?style=for-the-badge&label=Followers&color=red">
+    <img src="https://img.shields.io/github/followers/anishr-aj?style=for-the-badge&color=red&label=Followers" />
   </a>
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 BTech CSE Student  
-- 💻 Frontend Developer (HTML, CSS, JS, React)  
-- ⚡ AI, Automation & Open-Source Lover  
-- 📸 Passionate about Photography & Gaming  
-- 🌱 Currently building next-level developer tools  
+
+✨ Frontend Developer focused on **clean UI**, **performance**, and **modern web experiences**.  
+⚡ AI enthusiast building tools that automate tasks and improve productivity.  
+📸 Passion for **photography**, **gaming**, and creative digital work.  
+🌱 Currently leveling up in **AI Engineering + Full Stack Development**.  
+🎯 Goal: To build open-source tools that developers rely on every day.
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Tech Toolbox
 
-**Frontend:**  
-`HTML` `CSS` `JavaScript` `React`  
-**Programming:**  
-`C` `Java`  
-**Tools & Platforms:**  
-`Git` `GitHub` `VS Code`  
-**Cloud & APIs:**  
-`Google Cloud` `REST APIs`
+### **Languages**
+`JavaScript` `Java` `C`
 
----
+### **Frontend**
+`HTML` `CSS` `JavaScript` `React`
 
-## 🔥 Featured Projects
+### **Tools**
+`Git` `GitHub` `VS Code` `Postman`
 
-### ⭐ **Developer Productivity Toolkit**  
-A powerful set of tools for developers to work faster and smarter.
-
-### ⭐ **AYUSH Startup Registration Portal**  
-Government-grade portal for streamlined startup registration.
-
-### ⭐ **Hand Sign Recognition (Python)**  
-Computer vision model that detects hand gestures in real-time.
-
-Explore all my projects → **https://github.com/anishr-aj?tab=repositories**
+### **Cloud & APIs**
+`Google Cloud` `REST API`
 
 ---
 
-## 🧩 What I’m Working On
-- Premium open-source tools  
-- Production-grade UI components  
-- AI engineering & automation  
-- Tech content + shorts  
-- Full-stack mastery  
+## ⭐ Featured Projects
+
+### 🟣 **AYUSH Startup Registration Portal**  
+A fully functional, real-world multi-user startup registration platform for government workflows.
+
+### 🟢 **Developer Productivity Toolkit**  
+A set of utilities, templates, and automation tools to boost developer speed and efficiency.
+
+### 🔵 **Hand Sign Detection (Python)**  
+Real-time computer vision project using hand gesture recognition.
+
+👉 Explore all projects → **github.com/anishr-aj?tab=repositories**
 
 ---
 
-## 🧪 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anishr-aj&theme=radical&show_icons=true" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishr-aj&layout=compact&theme=radical" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=anishr-aj&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishr-aj&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 ---
 
-## ❤️ Become a Sponsor
+## 🌟 Why Sponsor Me?
 
-Maintaining open-source takes dedication. Your support helps me:
+Your support helps me:
 
-- Ship updates faster  
-- Add advanced features  
-- Release sponsor-only templates  
-- Keep tools free for devs  
+✔ Build powerful open-source tools  
+✔ Release new features faster  
+✔ Provide templates, components & utilities  
+✔ Improve documentation & tutorials  
+✔ Keep everything free for the dev community  
 
 <p align="center">
   <a href="https://github.com/sponsors/anishr-aj">
-    <img src="https://img.shields.io/badge/Become%20a%20Sponsor-%F0%9F%92%9A-green?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Become%20a%20Sponsor-%F0%9F%92%9A-green?style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-## 🏆 Hall of Fame — Top Sponsors  
-> Sponsor to feature your name/logo here forever!
+## 🏆 Sponsor Hall of Fame
+> Sponsor me to have your name or brand featured here permanently.
 
-| Sponsor | Logo |
-|--------|------|
-| Your Name | <img src="https://via.placeholder.com/100" width="100"> |
+| Name | Logo |
+|------|------|
+| Your Name | <img src="https://via.placeholder.com/80" /> |
 
 ---
 
-## 🤝 Contributing  
-Contributions are always welcome!  
+## 🤝 Contributions
+
+Contributions make open-source better!
 
 1. Fork the repo  
-2. Create a branch  
+2. Create a new branch  
 3. Commit changes  
 4. Open a PR  
 
 ---
 
-## 📬 Connect With Me  
-📧 Email: anishrajyadav97@example.com   
-💼 LinkedIn: https://www.linkedin.com/in/er-anish/ 
+## 📬 Connect With Me
+
+📧 Email: your-email@example.com  
+🐦 Twitter: https://x.com/anish  
+💼 LinkedIn: https://linkedin.com/in/anish  
+📷 Instagram: https://instagram.com/anish  
 
 ---
 
-## ⭐ If you like my work, don’t forget to star the repo!  
+## ⭐ If you liked my work, don’t forget to star the repos!

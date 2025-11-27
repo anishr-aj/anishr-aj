@@ -112,10 +112,8 @@ Contributions are always welcome!
 ---
 
 ## 📬 Connect With Me  
-📧 Email: your-email@example.com  
-🐦 X/Twitter: https://x.com/anish  
-💼 LinkedIn: https://linkedin.com/in/anish  
-📷 Instagram: https://instagram.com/anish  
+📧 Email: anishrajyadav97@example.com   
+💼 LinkedIn: https://www.linkedin.com/in/er-anish/ 
 
 ---
 

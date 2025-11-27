@@ -1,24 +1,21 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x320?text=Anish+Raj+%7C+Frontend+Developer+%7C+AI+Engineer+%7C+Open+Source" width="100%" />
+  <img src="https://via.placeholder.com/1200x320?text=Anish+Raj+%7C+AI+Engineer+%7C+Automation+Developer+%7C+Frontend+Dev" width="100%" />
 </p>
 
 <h1 align="center">🔥 Anish Raj</h1>
-<h3 align="center">Frontend Developer • AI Enthusiast • Open-Source Builder</h3>
+<h3 align="center">AI Engineer • Automation Developer • Python Developer • Frontend Dev • Canva Designer</h3>
 
 <p align="center">
-  <em>I craft clean interfaces, powerful tools, and open-source projects that actually make developers faster.</em>
+  <em>I build AI systems, automation workflows, modern UIs, and open-source tools that solve real problems.</em>
 </p>
 
 <p align="center">
   <a href="https://github.com/sponsors/anishr-aj">
-    <img src="https://img.shields.io/badge/Sponsor❤️-Support%20My%20Work-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Sponsor%20Me❤️-Support%20My%20Work-blue?style=for-the-badge" />
   </a>
   <a href="https://github.com/anishr-aj?tab=repositories">
     <img src="https://img.shields.io/badge/My%20Projects-Explore-green?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/anishr-aj">
-    <img src="https://img.shields.io/github/followers/anishr-aj?style=for-the-badge&color=red&label=Followers" />
   </a>
 </p>
 
@@ -26,44 +23,51 @@
 
 ## 🚀 About Me
 
-- 💻 Frontend Developer (HTML • CSS • JavaScript • React)  
-- 🤖 AI tools, automation & practical engineering  
-- 🎓 BTech CSE Student  
-- ☁️ Cloud experience — Google Cloud  
-- 📸 Creative in photography & content  
-- 🎮 Gamer & tech explorer  
-- 🧠 Passion → build things that help 1000s of developers
+- 🔥 **AI Engineer** with hands-on experience in GenAI & real-world automation  
+- 🧠 Skilled in **Prompt Engineering**, LLM optimization & model workflows  
+- 🤖 Build **AI Automation Systems** using Python, APIs & no-code/low-code stacks  
+- 🐍 **Python Developer** — scripts, automation pipelines, ML tasks  
+- 🎨 **Canva Designer** — banners, thumbnails, UI assets  
+- 💻 Frontend: **HTML, CSS, JavaScript, React**  
+- ☁️ Google Cloud learner  
+- 🎯 Mission → Build AI-powered products that help people & businesses automate everything
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:**  
-`HTML` `CSS` `JavaScript` `React`  
+### **AI & Automation**
+`Python` `Prompt Engineering` `LLMs` `AI Agents`  
+`OpenAI API` `Gemini API` `Claude` `LangChain`  
+`AI Automation` `RPA Logic`
 
-**Programming:**  
-`Java` `C`  
+### **Frontend**
+`HTML` `CSS` `JavaScript` `React`
 
-**Tools:**  
+### **Tools**
 `Git` `GitHub` `VS Code` `Postman`  
+`Canva` `Figma`
 
-**Cloud & APIs:**  
-`Google Cloud` `REST APIs`  
+### **Cloud**
+`Google Cloud` `REST APIs`
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Featured AI Projects
 
-### ⭐ **AYUSH Startup Registration Portal**
-Full-scale startup registration system with secure authentication, document management & admin tools.
+### 🤖 **AI Workflow Automator**
+LLM-powered system that automates repetitive tasks using Python + APIs.
 
-### ⭐ **Developer Productivity Toolkit**
-A collection of tools, templates & utilities to make developers 10× faster.
+### 🧠 **Prompt Engineering Templates Pack**
+Optimized prompts for coding, content, automation, image generation, etc.
 
-### ⭐ **Hand Sign Recognition (Python)**
-Real-time computer vision model detecting hand gestures using ML + OpenCV.
+### 📦 **Developer Productivity Toolkit**
+Custom utilities & templates for faster dev workflow.
 
-👉 Explore more → **https://github.com/anishr-aj?tab=repositories**
+### ✋ **Hand Gesture Recognition (Python)**
+Real-time computer vision model to detect fingers/gestures.
+
+👉 More projects → **https://github.com/anishr-aj?tab=repositories**
 
 ---
 
@@ -76,24 +80,25 @@ Real-time computer vision model detecting hand gestures using ML + OpenCV.
 
 ---
 
-## 💼 Currently Working On
+## 💼 What I’m Doing Right Now
 
-- ⚡ AI-based tools & utilities  
-- ⚛️ Building modern web apps  
-- 📚 Improving Java + DSA  
-- 🧩 Open-source libraries/components  
-- 🎥 Tech content (shorts, reels & tutorials)
+- 🧠 Building **AI Agents & Automations**  
+- 🚀 Learning advanced GenAI development  
+- 📚 Improving DSA + Java foundations  
+- 🏗️ Working on open-source AI tools  
+- 🎥 Creating tech + AI content  
+- 🎨 Designing clean banners & UI assets using Canva  
 
 ---
 
 ## ❤️ Sponsor My Work
 
-Your sponsorship helps me:
+Your support helps me innovate faster:
 
-- Build better open-source tools  
-- Release updates faster  
-- Create pro templates & resources  
-- Keep everything free for devs  
+- Build more AI tools  
+- Release automation kits  
+- Create advanced prompts & frameworks  
+- Help the dev community grow  
 
 <p align="center">
   <a href="https://github.com/sponsors/anishr-aj">
@@ -103,32 +108,30 @@ Your sponsorship helps me:
 
 ---
 
-## 🏆 Sponsor Wall — Top Supporters
-
+## 🏆 Sponsor Hall of Fame  
 | Sponsor | Logo |
 |--------|------|
 | Your Name | <img src="https://via.placeholder.com/80" /> |
 
 ---
 
-## 🤝 Contributing
+## 🤝 Want to Collaborate?
 
-Contributions are welcome 🎉  
-If you want to improve any repo:
+- AI projects  
+- Automation workflows  
+- Python tools  
+- UI design (Canva/Figma)  
+- Open-source contributions  
 
-1. Fork it  
-2. Create a branch  
-3. Commit changes  
-4. Open a PR  
+**I'm always open to collabs!**
 
 ---
 
-## 🌍 Connect With Me
-
-📧 Email: `your-email-here@example.com`  
-🐦 Twitter: `your-handle-here`  
-💼 LinkedIn: `your-profile-here`  
-📷 Instagram: `your-instagram-here`  
+## 🌍 Connect With Me  
+📧 Email: your-email-here@example.com  
+🐦 Twitter/X: your-handle-here  
+💼 LinkedIn: your-profile-here  
+📸 Instagram: your-insta-here  
 
 ---
 

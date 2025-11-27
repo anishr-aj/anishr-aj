@@ -1,12 +1,13 @@
-<!-- Clean Banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300?text=Anish+Raj+%7C+Frontend+Developer+%7C+AI+Builder" width="100%" />
+  <img src="https://via.placeholder.com/1200x320?text=Anish+Raj+%7C+Frontend+Developer+%7C+AI+Engineer+%7C+Open+Source" width="100%" />
 </p>
 
-<h1 align="center">🔥 Anish Raj — Frontend Developer | AI Enthusiast | Open Source Builder</h1>
+<h1 align="center">🔥 Anish Raj</h1>
+<h3 align="center">Frontend Developer • AI Enthusiast • Open-Source Builder</h3>
 
 <p align="center">
-  <em>I craft modern UIs, automation tools and open-source projects that help thousands of developers.</em>
+  <em>I craft clean interfaces, powerful tools, and open-source projects that actually make developers faster.</em>
 </p>
 
 <p align="center">
@@ -14,7 +15,7 @@
     <img src="https://img.shields.io/badge/Sponsor❤️-Support%20My%20Work-blue?style=for-the-badge" />
   </a>
   <a href="https://github.com/anishr-aj?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-Explore%20Now-green?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/My%20Projects-Explore-green?style=for-the-badge" />
   </a>
   <a href="https://github.com/anishr-aj">
     <img src="https://img.shields.io/github/followers/anishr-aj?style=for-the-badge&color=red&label=Followers" />
@@ -25,46 +26,48 @@
 
 ## 🚀 About Me
 
-✨ Frontend Developer focused on **clean UI**, **performance**, and **modern web experiences**.  
-⚡ AI enthusiast building tools that automate tasks and improve productivity.  
-📸 Passion for **photography**, **gaming**, and creative digital work.  
-🌱 Currently leveling up in **AI Engineering + Full Stack Development**.  
-🎯 Goal: To build open-source tools that developers rely on every day.
+- 💻 Frontend Developer (HTML • CSS • JavaScript • React)  
+- 🤖 AI tools, automation & practical engineering  
+- 🎓 BTech CSE Student  
+- ☁️ Cloud experience — Google Cloud  
+- 📸 Creative in photography & content  
+- 🎮 Gamer & tech explorer  
+- 🧠 Passion → build things that help 1000s of developers
 
 ---
 
-## 🛠️ Tech Toolbox
+## 🛠️ Tech Stack
 
-### **Languages**
-`JavaScript` `Java` `C`
+**Frontend:**  
+`HTML` `CSS` `JavaScript` `React`  
 
-### **Frontend**
-`HTML` `CSS` `JavaScript` `React`
+**Programming:**  
+`Java` `C`  
 
-### **Tools**
-`Git` `GitHub` `VS Code` `Postman`
+**Tools:**  
+`Git` `GitHub` `VS Code` `Postman`  
 
-### **Cloud & APIs**
-`Google Cloud` `REST API`
-
----
-
-## ⭐ Featured Projects
-
-### 🟣 **AYUSH Startup Registration Portal**  
-A fully functional, real-world multi-user startup registration platform for government workflows.
-
-### 🟢 **Developer Productivity Toolkit**  
-A set of utilities, templates, and automation tools to boost developer speed and efficiency.
-
-### 🔵 **Hand Sign Detection (Python)**  
-Real-time computer vision project using hand gesture recognition.
-
-👉 Explore all projects → **github.com/anishr-aj?tab=repositories**
+**Cloud & APIs:**  
+`Google Cloud` `REST APIs`  
 
 ---
 
-## 📊 GitHub Analytics
+## 🔥 Featured Projects
+
+### ⭐ **AYUSH Startup Registration Portal**
+Full-scale startup registration system with secure authentication, document management & admin tools.
+
+### ⭐ **Developer Productivity Toolkit**
+A collection of tools, templates & utilities to make developers 10× faster.
+
+### ⭐ **Hand Sign Recognition (Python)**
+Real-time computer vision model detecting hand gestures using ML + OpenCV.
+
+👉 Explore more → **https://github.com/anishr-aj?tab=repositories**
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anishr-aj&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
@@ -73,15 +76,24 @@ Real-time computer vision project using hand gesture recognition.
 
 ---
 
-## 🌟 Why Sponsor Me?
+## 💼 Currently Working On
 
-Your support helps me:
+- ⚡ AI-based tools & utilities  
+- ⚛️ Building modern web apps  
+- 📚 Improving Java + DSA  
+- 🧩 Open-source libraries/components  
+- 🎥 Tech content (shorts, reels & tutorials)
 
-✔ Build powerful open-source tools  
-✔ Release new features faster  
-✔ Provide templates, components & utilities  
-✔ Improve documentation & tutorials  
-✔ Keep everything free for the dev community  
+---
+
+## ❤️ Sponsor My Work
+
+Your sponsorship helps me:
+
+- Build better open-source tools  
+- Release updates faster  
+- Create pro templates & resources  
+- Keep everything free for devs  
 
 <p align="center">
   <a href="https://github.com/sponsors/anishr-aj">
@@ -91,33 +103,33 @@ Your support helps me:
 
 ---
 
-## 🏆 Sponsor Hall of Fame
-> Sponsor me to have your name or brand featured here permanently.
+## 🏆 Sponsor Wall — Top Supporters
 
-| Name | Logo |
-|------|------|
+| Sponsor | Logo |
+|--------|------|
 | Your Name | <img src="https://via.placeholder.com/80" /> |
 
 ---
 
-## 🤝 Contributions
+## 🤝 Contributing
 
-Contributions make open-source better!
+Contributions are welcome 🎉  
+If you want to improve any repo:
 
-1. Fork the repo  
-2. Create a new branch  
+1. Fork it  
+2. Create a branch  
 3. Commit changes  
 4. Open a PR  
 
 ---
 
-## 📬 Connect With Me
+## 🌍 Connect With Me
 
-📧 Email: your-email@example.com  
-🐦 Twitter: https://x.com/anish  
-💼 LinkedIn: https://linkedin.com/in/anish  
-📷 Instagram: https://instagram.com/anish  
+📧 Email: `your-email-here@example.com`  
+🐦 Twitter: `your-handle-here`  
+💼 LinkedIn: `your-profile-here`  
+📷 Instagram: `your-instagram-here`  
 
 ---
 
-## ⭐ If you liked my work, don’t forget to star the repos!
+## ⭐ If you like my work, don’t forget to star the repositories!  

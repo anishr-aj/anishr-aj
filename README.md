@@ -1,136 +1,111 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://via.placeholder.com/1200x320?text=Anish+Raj+%7C+AI+Engineer+%7C+Automation+Developer+%7C+Frontend+Dev" width="100%" />
-</p>
+<div align="center">
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Anish%20Raj&fontSize=80&animation=fadeIn&fontAlignY=38&desc=JavaScript%20Developer%20%7C%20Crafting%20Modern%20Digital%20Experiences&descAlignY=55&descAlign=50&fontColor=ffffff)
 
-<h1 align="center">🔥 Anish Raj</h1>
-<h3 align="center">AI Engineer • Automation Developer • Python Developer • Frontend Dev • Canva Designer</h3>
-
-<p align="center">
-  <em>I build AI systems, automation workflows, modern UIs, and open-source tools that solve real problems.</em>
-</p>
-
-<p align="center">
-  <a href="https://github.com/sponsors/anishr-aj">
-    <img src="https://img.shields.io/badge/Sponsor%20Me❤️-Support%20My%20Work-blue?style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/er-anish">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/anishr-aj?tab=repositories">
-    <img src="https://img.shields.io/badge/My%20Projects-Explore-green?style=for-the-badge" />
+  <a href="mailto:anishrajyadav97@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
 
----
+  <br />
 
-## 🚀 About Me
+  ### 👨‍💻 About Me
+  I am a passionate **JavaScript Developer** specializing in building pixel-perfect, responsive, and accessible web interfaces. I focus on clean code architecture and modern UI/UX principles to turn complex problems into elegant solutions.
 
-- 🔥 **AI Engineer** with hands-on experience in GenAI & real-world automation  
-- 🧠 Skilled in **Prompt Engineering**, LLM optimization & model workflows  
-- 🤖 Build **AI Automation Systems** using Python, APIs & no-code/low-code stacks  
-- 🐍 **Python Developer** — scripts, automation pipelines, ML tasks  
-- 🎨 **Canva Designer** — banners, thumbnails, UI assets  
-- 💻 Frontend: **HTML, CSS, JavaScript, React**  
-- ☁️ Google Cloud learner  
-- 🎯 Mission → Build AI-powered products that help people & businesses automate everything
+  <br />
 
----
+  ![Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## 🛠️ Tech Stack
+</div>
 
-### **AI & Automation**
-`Python` `Prompt Engineering` `LLMs` `AI Agents`  
-`OpenAI API` `Gemini API` `Claude` `LangChain`  
-`AI Automation` `RPA Logic`
+### 🛠️ Tech Stack & Tools
 
-### **Frontend**
-`HTML` `CSS` `JavaScript` `React`
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,git,github,vscode,postman,vercel&perline=6&theme=dark" alt="My Skills" />
+</div>
 
-### **Tools**
-`Git` `GitHub` `VS Code` `Postman`  
-`Canva` `Figma`
+<br />
 
-### **Cloud**
-`Google Cloud` `REST APIs`
+### 🚀 Featured Projects
 
----
+####  macOS Landing Page
+> A visually immersive landing page mimicking the macOS aesthetic, focusing on smooth animations and responsive design.
 
-## 🔥 Featured AI Projects
+* **Tech Stack:** React, TailwindCSS, Framer Motion
+* **Key Features:**
+    * Pixel-perfect UI replication of the Apple ecosystem.
+    * Smooth transitions and micro-interactions.
+    * Fully responsive across all device sizes.
+* 🔗 **[Live Demo](https://macbook-landing-inky.vercel.app/)** |  💻 **[GitHub Repo](https://github.com/anish-devgit/macbook_landing)**
 
-### 🤖 **AI Workflow Automator**
-LLM-powered system that automates repetitive tasks using Python + APIs.
+<br />
 
-### 🧠 **Prompt Engineering Templates Pack**
-Optimized prompts for coding, content, automation, image generation, etc.
+#### 📈 TradeDock — Zerodha Clone
+> A functional trading dashboard clone that simulates real-time stock tracking and portfolio management.
 
-### 📦 **Developer Productivity Toolkit**
-Custom utilities & templates for faster dev workflow.
+* **Tech Stack:** React, Node.js, Express, MongoDB
+* **Key Features:**
+    * Real-time data visualization layout.
+    * Clean dashboard architecture for managing orders.
+    * Optimized performance for handling data grids.
+* 💻 **[GitHub Repo](https://github.com/anish-devgit/TradeDock)**
 
-### ✋ **Hand Gesture Recognition (Python)**
-Real-time computer vision model to detect fingers/gestures.
+<br />
 
-👉 More projects → **https://github.com/anishr-aj?tab=repositories**
+<div align="center">
+  
+  ![Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
----
+  ### 📊 GitHub Stats
 
-## 📊 GitHub Stats
+  <br />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anishr-aj&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishr-aj&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=anish-devgit&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Anish's GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anish-devgit&theme=react&hide_border=true&background=0D1117" alt="Anish's Streak" height="180"/>
 
----
+  <br />
+  <br />
 
-## 💼 What I’m Doing Right Now
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish-devgit&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180"/>
 
-- 🧠 Building **AI Agents & Automations**  
-- 🚀 Learning advanced GenAI development  
-- 📚 Improving DSA + Java foundations  
-- 🏗️ Working on open-source AI tools  
-- 🎥 Creating tech + AI content  
-- 🎨 Designing clean banners & UI assets using Canva  
+</div>
 
----
+<br />
 
-## ❤️ Sponsor My Work
+### 🔥 Open Source & Activity
 
-Your support helps me innovate faster:
+I am currently focusing on **contributing to open-source projects** to give back to the community and sharpen my collaborative skills.
 
-- Build more AI tools  
-- Release automation kits  
-- Create advanced prompts & frameworks  
-- Help the dev community grow  
+* **Current Focus:** Exploring UI libraries and utility-first CSS frameworks.
+* **Recent Activity:** actively reviewing issues and optimizing documentation.
 
-<p align="center">
-  <a href="https://github.com/sponsors/anishr-aj">
-    <img src="https://img.shields.io/badge/Become%20a%20Sponsor-%F0%9F%92%9A-green?style=for-the-badge" />
+<br />
+
+### 😄 Fun Facts
+
+* 🎨 **Detail Oriented:** I love building pixel-perfect UIs and obsess over alignment.
+* 🧹 **Clean Code:** I treat code quality as an art form; readability is my priority.
+* 🧠 **Learner:** Always exploring new JavaScript frameworks and performance optimization techniques.
+
+<br />
+
+<div align="center">
+  
+  ![Separator](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+  
+  ### 📬 Connect With Me
+
+  <a href="https://www.linkedin.com/in/er-anish">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-</p>
+  <a href="mailto:anishrajyadav97@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
 
----
+  <br />
+  <br />
+  <p align="center">Designed with ❤️ by Anish Raj</p>
 
-## 🏆 Sponsor Hall of Fame  
-| Sponsor | Logo |
-|--------|------|
-| Your Name | <img src="https://via.placeholder.com/80" /> |
-
----
-
-## 🤝 Want to Collaborate?
-
-- AI projects  
-- Automation workflows  
-- Python tools  
-- UI design (Canva/Figma)  
-- Open-source contributions  
-
-**I'm always open to collabs!**
-
----
-
-## 🌍 Connect With Me  
-📧 Email: anishrajyadav97@gmail.com 
-💼 LinkedIn: https://www.linkedin.com/in/er-anish/
-
----
-
-## ⭐ If you like my work, don’t forget to star the repositories!  
+</div>

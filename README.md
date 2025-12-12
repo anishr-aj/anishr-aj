@@ -1,5 +1,7 @@
 <div align="center">
   
+  ![](https://komarev.com/ghpvc/?username=anish-devgit)
+
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Anish%20Raj&fontSize=80&animation=fadeIn&fontAlignY=38&desc=JavaScript%20Developer%20%7C%20Crafting%20Modern%20Digital%20Experiences&descAlignY=55&descAlign=50&fontColor=ffffff)
 
   <a href="https://www.linkedin.com/in/er-anish">

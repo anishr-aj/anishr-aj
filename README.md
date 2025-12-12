@@ -62,9 +62,9 @@
 
   <br />
 
-  ![](https://github-readme-activity-graph.vercel.app/graph?username=anish-devgit&theme=github-compact&custom_title=Here%20is%20Mohit's%20Contribution&hide_border=true&area=true&color=708090&line=ff69b4&point=dda0dd)
+  ![](https://github-readme-activity-graph.vercel.app/graph?username=anish-devgit&theme=github-compact&custom_title=Here%20is%20Anish's%20Contribution&hide_border=true&area=true&color=708090&line=ff69b4&point=dda0dd)
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anish-devgit&theme=react&hide_border=true&background=0D1117" alt="Anish's Streak" height="180"/>
+  ![](https://github-trophies.vercel.app/?username=mohitkumhar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
   <br />
   <br />

@@ -228,10 +228,6 @@
   <img src="https://raw.githubusercontent.com/anish-devgit/anish-devgit/output/github-contribution-grid-snake.svg" width="80%" />
 </div>
 
-<h2 align="center">🌆 Engineering City</h2>
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D City" />
-</div>
 
 <br />
 

@@ -195,7 +195,7 @@
   <table align="center" width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=anish-devgit&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=anish-devgit&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&rank_icon=github&include_all_commits=true" width="100%" />
       </td>
       <td width="50%" align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish-devgit&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="100%" />

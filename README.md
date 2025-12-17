@@ -83,6 +83,11 @@ I am a **JavaScript Developer** and **Open Source Enthusiast** based in India. I
 
 <div align="center">
   <h3>🏆 Github Achievements</h3>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anish-devgit&theme=tokyonight&hide_border=true&area=true&custom_title=Here%20is%20Anish's%20Contribution" width="100%" alt="Activity Graph" />
+  
+  <br/><br/>
+
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=anish-devgit&theme=onedark&no-frame=true&column=7" alt="anish-devgit trophies" />
   </a>
@@ -91,16 +96,19 @@ I am a **JavaScript Developer** and **Open Source Enthusiast** based in India. I
   
   <table align="center">
     <tr>
-      <td>
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=anish-devgit&show_icons=true&theme=tokyonight&hide_border=true" />
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=anish-devgit&theme=tokyonight&hide_border=true&count_private=true" />
       </td>
-      <td>
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish-devgit&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish-devgit&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="https://streak-stats.demolab.com?user=anish-devgit&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
-  
-  <img src="https://streak-stats.demolab.com?user=anish-devgit&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---

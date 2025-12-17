@@ -228,13 +228,6 @@
   <img src="https://raw.githubusercontent.com/anish-devgit/anish-devgit/output/github-contribution-grid-snake.svg" width="80%" />
 </div>
 
-<h2 align="center">🎒 Digital Inventory</h2>
-<div align="center">
-  <a href="https://holopin.io/@anishdevgit">
-    <img src="https://holopin.me/anishdevgit" alt="Anish's Holopin Board" />
-  </a>
-</div>
-
 
 <br />
 

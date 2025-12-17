@@ -84,7 +84,7 @@ I am a **JavaScript Developer** and **Open Source Enthusiast** based in India. I
 <div align="center">
   <h3>🏆 Github Achievements</h3>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anish-devgit&theme=onedark&no-frame=true&column=7&margin-w=15&margin-h=15" alt="anish-devgit trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=anish-devgit&theme=onedark&no-frame=true&column=7" alt="anish-devgit trophies" />
   </a>
   
   <br/><br/>
@@ -100,13 +100,13 @@ I am a **JavaScript Developer** and **Open Source Enthusiast** based in India. I
     </tr>
   </table>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anish-devgit&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=anish-devgit&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github.com/anish-devgit/anish-devgit/raw/output/github-contribution-grid-snake.svg" alt="snake contribution" width="100%"/>
+  <img src="https://raw.githubusercontent.com/anish-devgit/anish-devgit/output/github-contribution-grid-snake.svg" alt="snake contribution" width="100%"/>
 </div>
 
 ---

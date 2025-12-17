@@ -206,9 +206,7 @@
   <br/>
   <img src="https://streak-stats.demolab.com?user=anish-devgit&theme=tokyonight&hide_border=true" />
   <br/><br/>
-  <a href="https://komarev.com/ghpvc/?username=anish-devgit">
-    <img src="https://visitcount.itsvg.in/api?id=anish-devgit&icon=3&color=10" />
-  </a>
+  ![](https://komarev.com/ghpvc/?username=anish-devgit)
 </div>
 
 <br />

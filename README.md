@@ -215,25 +215,13 @@
 
 <h2 align="center">🏆 Achievements</h2>
 <div align="center">
-  <table style="width:100%">
-    <tr>
-      <td style="width:50%; vertical-align: top;">
-        <img src="https://github-trophies.vercel.app/?username=anish-devgit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" width="100%" />
-      </td>
-      
-      <td style="width:50%; vertical-align: middle;">
-        <img src="https://raw.githubusercontent.com/anish-devgit/anish-devgit/output/github-contribution-grid-snake.svg" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-trophies.vercel.app/?username=anish-devgit&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" />
 </div>
 
 <br />
 
 <div align="center">
-  <a href="https://github.com/sponsors/anish-devgit">
-    <img src="https://img.shields.io/badge/Sponsor_My_Work-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" />
-  </a>
+  <img src="https://raw.githubusercontent.com/anish-devgit/anish-devgit/output/github-contribution-grid-snake.svg" width="80%" />
 </div>
 
 <br />

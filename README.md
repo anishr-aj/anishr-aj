@@ -228,6 +228,6 @@
 
 <div align="center">
   <a href="https://github.com/sponsors/anish-devgit">
-    <img src="https://img.shields.io/badge/💖_Sponsor_My_Work-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" />
+    <img src="https://img.shields.io/badge/Sponsor_My_Work-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" />
   </a>
 </div>

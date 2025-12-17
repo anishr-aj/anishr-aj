@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:000000&height=300&section=header&text=Anish%20Raj&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Architecting%20Scalable%20Systems%20%7C%20Open%20Source%20Elite%20%7C%20Data%20Scientist&descAlignY=55&descAlign=50" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:000000&height=280&section=header&text=Hi%20there,%20I'm%20Anish%20Raj!&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=JavaScript%20Developer%20%7C%20Open%20Source%20Elite%20%7C%20Data%20Scientist&descAlignY=55&descAlign=50" width="100%" alt="Header" />
 
   <a href="https://linkedin.com/in/er-anish">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -19,15 +19,27 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=20C20E&center=true&vCenter=true&width=800&lines=Writing+code+for+Next.js+Core...;Training+AI+Models+with+Python...;Building+High-Performance+Financial+Apps...;Solving+Complex+Open+Source+Issues..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20C20E&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Applications;Contributing+to+Open+Source+Ecosystem;Exploring+Generative+AI+%26+LLMs;Turning+Coffee+into+Clean+Code" alt="Typing SVG" />
   </a>
 </div>
 
 <br />
 
-<h2 align="center">⚡ Engineering Impact & Open Source</h2>
-<p align="center"><i>I don't just use libraries; I optimize them. Here are my contributions to the tools you use every day.</i></p>
+<h2 align="center">🛠 Tech Stack</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
 
+<br />
+
+<h2 align="center">⚡ Open Source Contributions</h2>
 <div align="center">
   <table width="100%">
     <tr>
@@ -84,118 +96,48 @@
 
 <br />
 
-<h2 align="center">🛠 The Arsenal</h2>
-<div align="center">
-  <table align="center">
-    <tr>
-      <td align="center" width="120">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
-        <br />React
-      </td>
-      <td align="center" width="120">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
-        <br />JavaScript
-      </td>
-      <td align="center" width="120">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
-        <br />TypeScript
-      </td>
-      <td align="center" width="120">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
-        <br />Python
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55" />
-        <br />Next.js
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" />
-        <br />Node.js
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" />
-        <br />MongoDB
-      </td>
-    </tr>
-  </table>
-</div>
+<h2 align="center">🚀 Featured Projects</h2>
+<table align="center" width="100%">
+  <tr>
+    <th width="30%">Project</th>
+    <th width="50%">Description</th>
+    <th width="20%">Links</th>
+  </tr>
+  <tr>
+    <td><strong>MacOS Landing</strong></td>
+    <td>Pixel-perfect 3D desktop environment in the browser.</td>
+    <td>
+      <a href="https://macbook-landing-inky.vercel.app/">Live</a> • <a href="https://github.com/anish-devgit/macbook_landing">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>TradeDock</strong></td>
+    <td>High-performance fintech/trading dashboard clone.</td>
+    <td>
+      <a href="https://github.com/anish-devgit/TradeDock">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>CoreOps</strong></td>
+    <td>AI Automation Agency platform (In Development).</td>
+    <td>
+      <em>Coming Soon</em>
+    </td>
+  </tr>
+</table>
 
 <br />
 
-<h2 align="center">🚀 Production Deployments</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
-  <table width="100%">
-    <tr>
-      <th width="25%">Project</th>
-      <th width="45%">Description</th>
-      <th width="15%">Stack</th>
-      <th width="15%">Links</th>
-    </tr>
-    <tr>
-      <td>
-        <strong>🍎 MacOS Landing</strong>
-      </td>
-      <td>
-        A pixel-perfect, 3D interactive recreation of the macOS desktop experience in the browser.
-      </td>
-      <td>
-        <code>React</code>
-        <code>Framer</code>
-      </td>
-      <td>
-        <a href="https://macbook-landing-inky.vercel.app/">
-          <img src="https://img.shields.io/badge/Live-FF5722?style=flat-square&logo=vercel&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>📈 TradeDock</strong>
-      </td>
-      <td>
-        Complex Zerodha clone with real-time stock data handling and high-frequency updates.
-      </td>
-      <td>
-        <code>Node</code>
-        <code>Mongo</code>
-      </td>
-      <td>
-        <a href="https://github.com/anish-devgit/TradeDock">
-          <img src="https://img.shields.io/badge/Code-black?style=flat-square&logo=github&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>🤖 CoreOps</strong>
-      </td>
-      <td>
-        (In Development) An AI Automation Agency infrastructure for enterprise scaling.
-      </td>
-      <td>
-        <code>AI</code>
-        <code>Next.js</code>
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Building-yellow?style=flat-square" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br />
-
-<h2 align="center">📊 The Data</h2>
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anish-devgit&theme=tokyonight&hide_border=true&area=true&custom_title=Contribution%20Velocity" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anish-devgit&theme=tokyonight&hide_border=true&area=true&custom_title=Anish's%20Contribution%20Graph" width="100%" />
   
   <br/><br/>
   
   <table align="center" width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=anish-devgit&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=anish-devgit&theme=tokyonight&hide_border=true&count_private=true&show_icons=true" width="100%" />
       </td>
       <td width="50%" align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish-devgit&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="100%" />
@@ -205,7 +147,9 @@
 
   <br/>
   <img src="https://streak-stats.demolab.com?user=anish-devgit&theme=tokyonight&hide_border=true" />
+  
   <br/><br/>
+  
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=anish-devgit&icon=3&color=10" />
   </a>
@@ -221,12 +165,13 @@
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/anish-devgit/anish-devgit/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/anish-devgit/anish-devgit/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
 </div>
 
 <br />
 
 <div align="center">
+  <p><i>Open to Data Science roles and OSS collaborations.</i></p>
   <a href="https://github.com/sponsors/anish-devgit">
     <img src="https://img.shields.io/badge/💖_Sponsor_My_Work-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" />
   </a>

@@ -2,10 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi%20there,%20I'm%20Anish%20Raj!&fontSize=70&fontAlignY=35&desc=JavaScript%20Developer%20%7C%20Open%20Source%20%7C%20Data%20Science&descAlignY=60&descAlign=50" width="100%" alt="Header" />
 
   <p>
-    <a href="https://linkedin.com/in/er-anish"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
-    <a href="https://x.com/Anish_Raj_07"><img src="https://img.shields.io/badge/X-black?style=flat&logo=x&logoColor=white" /></a>
-    <a href="mailto:anishrajyadav97@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white" /></a>
-    <a href="https://github.com/sponsors/anish-devgit"><img src="https://img.shields.io/badge/Sponsor-pink?style=flat&logo=github-sponsors&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/er-anish"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://x.com/Anish_Raj_07"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" /></a>
+    <a href="mailto:anishrajyadav97@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://github.com/sponsors/anish-devgit"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" /></a>
   </p>
 
   <a href="https://git.io/typing-svg">
@@ -31,31 +31,34 @@
   </tr>
   <tr>
     <td><strong>MacOS Landing</strong></td>
-    <td>Pixel-perfect 3D desktop environment in the browser.</td>
+    <td>Pixel-perfect 3D desktop environment in the browser using Framer Motion.</td>
     <td>
       <a href="https://macbook-landing-inky.vercel.app/">Live</a> • <a href="https://github.com/anish-devgit/macbook_landing">Code</a>
     </td>
   </tr>
   <tr>
     <td><strong>TradeDock</strong></td>
-    <td>High-performance fintech/trading dashboard clone.</td>
+    <td>High-performance fintech/trading dashboard clone (Zerodha) with real-time data.</td>
     <td>
       <a href="https://github.com/anish-devgit/TradeDock">Code</a>
     </td>
   </tr>
   <tr>
     <td><strong>CoreOps</strong></td>
-    <td>AI Automation Agency platform (In Development).</td>
+    <td>AI Automation Agency platform for streamlining business operations.</td>
     <td>
-      <em>Coming Soon</em>
+      <em>In Development</em>
     </td>
   </tr>
 </table>
 
 <br />
 
-<h3 align="center">🔥 Open Source</h3>
+<h3 align="center">🔥 Open Source Contributions</h3>
 <div align="center">
+  <a href="https://github.com/Textualize/rich/pull/3916">
+    <img src="https://img.shields.io/badge/Textualize%2FRich-PR%20Merged-green?style=flat-square&logo=python&logoColor=white" />
+  </a>
   <a href="https://github.com/vercel/next.js/pull/87244">
     <img src="https://img.shields.io/badge/Next.js-PR%20Merged-black?style=flat-square&logo=next.js" />
   </a>
@@ -71,6 +74,10 @@
 
 <h3 align="center">📊 GitHub Analytics</h3>
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anish-devgit&theme=tokyonight&hide_border=true&area=true&custom_title=Anish's%20Contribution%20Graph" width="100%" />
+  
+  <br/><br/>
+
   <img src="https://github-readme-stats.vercel.app/api?username=anish-devgit&theme=tokyonight&hide_border=true&count_private=true&show_icons=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish-devgit&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="160" />
   

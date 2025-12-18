@@ -112,15 +112,15 @@
         <br />Python
       </td>
       <td align="center" width="120">
-        <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" alt="icon" width="55" height="55" />
+        <img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55" alt="Next.js" />
         <br />Next.js
       </td>
       <td align="center" width="120">
-        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="icon" width="55" height="55" />
+        <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js" />
         <br />Node.js
       </td>
       <td align="center" width="120">
-        <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="icon" width="55" height="55" />
+        <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" alt="MongoDB" />
         <br />MongoDB
       </td>
     </tr>

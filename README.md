@@ -95,33 +95,41 @@
 <div align="center">
   <table align="center">
     <tr>
-      <td align="center" width="120">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+      <td align="center" width="88">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="45" height="45" />
         <br />React
       </td>
-      <td align="center" width="120">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
+      <td align="center" width="88">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="45" height="45" />
         <br />JavaScript
       </td>
-      <td align="center" width="120">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
+      <td align="center" width="88">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="45" height="45" />
         <br />TypeScript
       </td>
-      <td align="center" width="120">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
+      <td align="center" width="88">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="45" height="45" />
         <br />Python
       </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55" alt="Next.js" />
+      <td align="center" width="88">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
         <br />Next.js
       </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js" />
+      <td align="center" width="88">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
         <br />Node.js
       </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" alt="MongoDB" />
+      <td align="center" width="88">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
         <br />MongoDB
+      </td>
+      <td align="center" width="88">
+        <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="SQL" />
+        <br />SQL
+      </td>
+      <td align="center" width="88">
+        <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
+        <br />PostgreSQL
       </td>
     </tr>
   </table>

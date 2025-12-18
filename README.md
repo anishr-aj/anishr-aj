@@ -163,12 +163,13 @@
   High-performance cinematic gaming landing page featuring advanced GSAP scroll-triggered animations and immersive visual storytelling.
 </td>
       <td>
-        <code>Node</code>
-        <code>Mongo</code>
-      </td>
+  <code>React</code>
+  <code>GSAP</code>
+  <code>Tailwind</code>
+</td>
       <td>
-        <a href="https://github.com/anish-devgit/TradeDock">
-          <img src="https://img.shields.io/badge/Code-black?style=flat-square&logo=github&logoColor=white" />
+        <a href="https://zenith-interactive.vercel.app/">
+          <img src="https://img.shields.io/badge/Live-FF5722?style=flat-square&logo=vercel&logoColor=white" />
         </a>
       </td>
     </tr>

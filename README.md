@@ -157,11 +157,11 @@
     </tr>
     <tr>
       <td>
-        <strong> Zenith Studio</strong>
-      </td>
-      <td>
-        Complex Zerodha clone with real-time stock data handling and high-frequency updates.
-      </td>
+  <strong>🌌 Zenith Studio</strong>
+</td>
+<td>
+  High-performance cinematic gaming landing page featuring advanced GSAP scroll-triggered animations and immersive visual storytelling.
+</td>
       <td>
         <code>Node</code>
         <code>Mongo</code>
@@ -227,7 +227,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/anish-devgit/anish-devgit/output/github-contribution-grid-snake.svg" width="80%" />
 </div>
-
 
 <br />
 

@@ -128,8 +128,8 @@
         <br />SQL
       </td>
       <td align="center" width="88">
-        <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="icon" width="45" height="45" />
-        <br />PostgreSQL
+        <img src="https://techstack-generator.vercel.app/postgres-icon.svg" alt="icon" width="45" height="45" />
+        <br />Postgres
       </td>
     </tr>
   </table>

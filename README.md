@@ -117,6 +117,24 @@
     </tr>
     <tr>
       <td>
+        <strong>⚛️ ReactAtom</strong>
+      </td>
+      <td>
+        The next generation of atomic, reusable React components. Build stunning UIs with copy-paste simplicity.
+      </td>
+      <td>
+        <code>React</code>
+        <code>TypeScript</code>
+        <code>Tailwind</code>
+      </td>
+      <td>
+        <a href="https://reactatoms.vercel.app/">
+          <img src="https://img.shields.io/badge/Live-FF5722?style=flat-square&logo=vercel&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <strong>🍎 MacOS Landing</strong>
       </td>
       <td>

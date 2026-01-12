@@ -50,7 +50,7 @@ Most component libraries are bloated cages. ReactAtom is different. It’s an ow
 
 ## 📈 Impact & Velocity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anishr-aj&bg_color=0d1117&color=ffffff&line=3b82f6&point=ffffff&area=true&hide_border=true&custom_title=Consistency_Is_Key" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anish-devgit&bg_color=0d1117&color=ffffff&line=3b82f6&point=ffffff&area=true&hide_border=true&custom_title=Consistency_Is_Key" width="100%" alt="Activity Graph" />
 
 <br />
 

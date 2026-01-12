@@ -1,90 +1,86 @@
-<table width="100%" border="0">
-  <tr>
-    <td width="100%">
-      <code>ARCHITECT :: ANISH_RAJ</code>
-    </td>
-  </tr>
-</table>
+<h1 align="center"><code>ANISH RAJ :: PRINCIPAL ENGINEER</code></h1>
 
 <br />
 
-<!-- SYSTEM ROOT -->
-<table width="100%" border="0">
+<h3>// 01_PRODUCTION_LIFECYCLE</h3>
+
+<table width="100%">
   <tr>
-    <td width="60%">
-      <h2><code>SYS_ROOT // REACT_ATOM</code></h2>
-      <br />
-      The atomic engine for modern interfaces. Engineered for zero-runtime overhead and copy-paste portability.
+    <td width="75%">
+      <h2><a href="https://reactatoms.vercel.app/">REACT_ATOM</a> <code>v1.0</code></h2>
+      The atomic component system for zero-overhead architecture.
       <br /><br />
-      <code>STATUS: PROD</code> &nbsp; <code>LANG: TSX</code> &nbsp; <code>ARCH: ATOMIC</code>
+      Managed as a living product featuring atomic scalability, typesafe interfaces, and comprehensive documentation. Engineered for high-velocity teams.
       <br /><br />
-      <a href="https://reactatoms.vercel.app/"><b>[ ACCESS_TERMINAL ]</b></a>
-      &nbsp;
-      <a href="https://github.com/anish-devgit/react-atoms"><b>[ SOURCE_CODE ]</b></a>
+      <code>SYSTEM_STATUS: STABLE</code>
+      <br /><br />
+      [ <a href="https://reactatoms.vercel.app/"><b>LATEST_DEPLOY</b></a> ] &nbsp; [ <a href="https://github.com/anish-devgit/react-atoms"><b>REPOSITORY</b></a> ]
     </td>
-    <td width="40%" align="center">
+    <td width="25%" align="center">
       <a href="https://reactatoms.vercel.app/">
-        <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png" width="100" />
+        <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png" width="80" alt="ReactAtom" />
       </a>
     </td>
   </tr>
 </table>
 
-<br />  
+<br />
 
-<!-- SIGNAL PERSISTENCE -->
-<table width="100%" border="0">
+<h3>// 02_ENGINEERING_METRICS</h3>
+
+<table>
   <tr>
-    <td width="100%">
-      <code>SIGNAL_PERSISTENCE // GIT_LOG</code>
+    <td width="60%">
+      <img src="https://github-readme-stats.vercel.app/api?username=anishr-aj&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117&hide_title=true&include_all_commits=true&custom_title=Impact_Quantified" width="100%" alt="Impact Stats" />
+    </td>
+    <td width="40%" valign="middle">
+      <b>EXECUTION_SIGNAL:</b>
       <br /><br />
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=anishr-aj&bg_color=0d1117&color=ffffff&line=3b82f6&point=ffffff&area=true&hide_border=true&custom_title=Execution_History" width="100%" />
+      This dashboard visualizes sustained contribution velocity across the open-source ecosystem.
+      <br /><br />
+      <i>High-impact PRs merged.</i>
+      <br />
+      <i>Complex issues resolved.</i>
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anishr-aj&bg_color=0d1117&color=ffffff&line=3b82f6&point=ffffff&area=true&hide_border=true&custom_title=Signal_Persistence" width="100%" alt="Activity Graph" />
+
+<br /><br />
+
+<h3>// 03_DEPLOYMENT_TOPOLOGY</h3>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://zenith-interactive.vercel.app/">ZENITH_STUDIO</a></b>
+      <br />
+      <i>Rendering Engine</i>
+      <br /><br />
+      High-fidelity landing page with GSAP/WebGL integration.
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://macbook-landing-inky.vercel.app/">MACOS_WEB</a></b>
+      <br />
+      <i>OS Emulation</i>
+      <br /><br />
+      Pixel-perfect 3D environment reproduction in-browser.
     </td>
   </tr>
 </table>
 
 <br />
 
-<!-- ACTIVE NODES -->
-<table width="100%" border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <code>NODE_01 :: ZENITH_STUDIO</code>
-      <br /><br />
-      Rendering engine for cinematic experiences.
-      <br />
-      <i>Features:</i> <code>WebGL</code> <code>GSAP</code> <code>LCP-Optimized</code>
-      <br /><br />
-      <a href="https://zenith-interactive.vercel.app/"><b>[ VIEW_NODE ]</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <code>NODE_02 :: MACOS_WEB</code>
-      <br /><br />
-      Operating system emulation environment.
-      <br />
-      <i>Features:</i> <code>3D-Interactive</code> <code>Framer-Motion</code>
-      <br /><br />
-      <a href="https://macbook-landing-inky.vercel.app/"><b>[ VIEW_NODE ]</b></a>
-    </td>
-  </tr>
-</table>
+<h3>// 04_STACK_ARCHITECTURE</h3>
 
-<br />
+<img src="https://skillicons.dev/icons?i=react,ts,nextjs,python,nodejs,postgres&theme=dark" alt="Technical Stack" />
 
-<!-- METRICS -->
-<table width="100%" border="0">
-  <tr>
-    <td width="50%">
-      <code>METRIC_DUMP</code>
-      <br /><br />
-      <img src="https://github-readme-stats.vercel.app/api?username=anishr-aj&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117&hide_title=true&include_all_commits=true&custom_title=Throughput" width="100%" />
-    </td>
-    <td width="50%">
-      <code>TOOL_CHAIN</code>
-      <br /><br />
-      <img src="https://skillicons.dev/icons?i=react,ts,nextjs,python,nodejs,postgres&theme=dark" />
-      <br /><br />
-      <code>CONTACT_PROTOCOL:</code> <a href="https://linkedin.com/in/er-anish">LINKEDIN</a> / <a href="https://x.com/Anish_Raj_07">TWITTER</a>
-    </td>
-  </tr>
-</table>
+<br /><br />
+
+<div align="center">
+  <code>CONTACT_UPLINK ::</code> 
+  <a href="https://linkedin.com/in/er-anish"><b>LINKEDIN</b></a> / 
+  <a href="https://x.com/Anish_Raj_07"><b>X_STREAM</b></a> / 
+  <a href="mailto:anishrajyadav97@gmail.com"><b>EMAIL</b></a>
+</div>
